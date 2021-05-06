@@ -1,0 +1,80 @@
+h3{
+    color: rgb(41, 41, 90);
+}
+
+.contact-1{
+    float: left;
+    width: 25%;
+    margin-left: 7%;
+    text-align: center;
+    
+    border:solid black;
+    background-color: #08AEEA;
+background-image: linear-gradient(0deg, #08AEEA 0%, #2AF598 100%);
+
+    
+}
+.contact-2{
+    float: left;
+    width: 25%;
+    background-color: #08AEEA;
+background-image: linear-gradient(0deg, #08AEEA 0%, #2AF598 100%);
+
+    margin-left: 4%;
+    text-align: center;
+    margin-right: 4%;
+    border:solid black;
+}
+.contact-3{
+    float: left;
+    width: 25%;
+    text-align: center;
+    background-color: #08AEEA;
+    background-image: linear-gradient(0deg, #08AEEA 0%, #2AF598 100%);
+
+    border:solid black;
+    
+}
+h1{
+    text-align: center;
+}
+body{
+    background-color: #FFDEE9;
+background-image: linear-gradient(34deg, #FFDEE9 0%, #B5FFFC 100%);
+
+
+}
+.btn{
+    position: absolute;
+    top: 70%;
+    right: 48%;
+    font-size: 30px;
+    background-color: #21D4FD;
+background-image: linear-gradient(180deg, #21D4FD 0%, #B721FF 100%);
+border-radius: 10px;
+
+}
+h1 { font-family: Prociono; 
+    font-size: 24px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 700; 
+    line-height: 26.4px; 
+} 
+h3 { 
+    font-family: Prociono; 
+    font-size: 18px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 700; 
+    line-height: 15.4px; 
+} 
+p { 
+    font-family: Prociono; 
+    font-size: 14px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 400; 
+    line-height: 20px; 
+} 
+
